@@ -7,5 +7,3 @@
 <p strong> Renomear o arquivo .env.example para .env e inserir dados do banco para conexão</p>
 <p strong> Rodar as migrations no banco de dados com o comando "php artisan migrate"</p>
 <p strong> Para subir a aplicação na porta padrão do nginx ou apache (localhost:8000), rode "php artisan serve"</p>
-
-<p align="center"><a href="https://unifil.br" target="_blank"><img src="https://github.com/joao951951/startup_laravel/blob/dev/unifil_logo.png" width="400"></a></p>
